@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(78, 17, 119);
+}
+
+.quadrado{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+
+#B7, #B6{
+    background-color: rgb(30, 5, 46);
+}
+#C8, #C7, #C6 {
+    background-color: rgb(30, 5, 46);
+}
+#D6, #D9{
+    background-color: rgb(30, 5, 46);
+}
+#E6 {
+    background-color: rgb(30, 5, 46);
+}
+#F6 {
+    background-color: rgb(30, 5, 46);
+}
+#G6, #G3, #G4, #G5 {
+    background-color: rgb(30, 5, 46);
+}
+#H6, #H5, #H4, #H3, #H2 {
+    background-color: rgb(30, 5, 46);
+}
+#I5, #I4, #I3 {
+    background-color: rgb(30, 5, 46);
+}
+
+.coluna{
+    display: flex;
+}
